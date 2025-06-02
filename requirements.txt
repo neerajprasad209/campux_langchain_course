@@ -30,3 +30,5 @@ scikit-learn
 
 # Streamlit for Web Interface
 streamlit
+
+ipykernel
